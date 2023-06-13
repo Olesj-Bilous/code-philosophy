@@ -1,4 +1,4 @@
-# code-philosophy
+# code-filosofie
 
 Mijn filosofie is dat code een levend organisme is. Niet door het mechanisme van het programma (althans nog niet), maar door de noden van de gebruikers en ontwikkelaars die het leven inblazen.
 
